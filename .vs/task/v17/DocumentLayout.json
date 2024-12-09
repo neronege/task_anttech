@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\Desktop\\task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\pages\\process.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\pages\\process.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\layout\\slider.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\layout\\slider.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "task\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "task\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:02:58.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Process.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Pages\\Process.razor",
+              "RelativeDocumentMoniker": "task\\Pages\\Process.razor",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Pages\\Process.razor",
+              "RelativeToolTip": "task\\Pages\\Process.razor",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:27:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "task\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "task\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAUwNUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T17:12:35.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "task\\Layout\\Footer.razor",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Footer.razor",
+              "RelativeToolTip": "task\\Layout\\Footer.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:09:42.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slider.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Slider.razor",
+              "RelativeDocumentMoniker": "task\\Layout\\Slider.razor",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Slider.razor",
+              "RelativeToolTip": "task\\Layout\\Slider.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:11:22.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "task\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\index.html",
+              "RelativeToolTip": "task\\wwwroot\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-09T17:39:51.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

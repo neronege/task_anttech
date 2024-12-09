@@ -1,0 +1,195 @@
+﻿@page "/"
+
+    <div class="d-flex flex-column">
+        <div class="slider-wrapper @SliderClass">
+            <Slider />
+        </div>
+         <div class="collapse-button text-center mb-3" style="background:#eaeaea75">
+            <button title="Navigation menu" class="navbar-toggler border-0 shadow-none" @onclick="ToggleSlider">
+                <i class="fas fa-minus"></i>
+            </button>
+        </div>
+    </div>
+
+@*     Dropdowns
+
+ *@  <div class="container mb-5">
+       <div class="buttons">
+        <!-- g-1 ile boşluğu azaltıyoruz -->
+    
+            <div class="dropdown ">
+            <button class="btn btn-secondary days dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Son 7 Gün
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Son 15 gün</a></li>
+                </ul>
+            </div>
+       
+
+     
+            <div class="dropdown ">
+            <button class="btn btn-secondary dates dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Tarihe Göre Sırala
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Tüketime Göre Sırala</a></li>
+                </ul>
+            </div>
+
+
+        <div class="button-disable">
+            <i class="fas fa-arrow-up-right-from-square"></i>
+        </div>
+       
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="vechile ">
+                <div class="col-lg-3 border-right">
+                    <p style="font-weight:600">Tarih</p>
+                    <p >25/11/2024 08:36</p>
+                </div>
+            <div class="col-lg-3 border-right">
+                    <p style="font-weight:600">PLAKA</p>
+                    <p>07 AT 1267 </p>
+                </div>
+            <div class="col-lg-3 border-right">
+                    <p style="font-weight:600">İŞLEM NO:</p>
+                    <p>12865 </p>
+                </div>
+                <div class="col-lg-3 detail">
+                    <i class="fa-solid fa-ellipsis"></i>
+                    <p>Detay</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+                <p style="font-weight:600">İŞLEM DURUMU:</p>
+                <p>Tamamlandı </p>
+            </div>
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">CİHAZ ID:</p>
+            <p>SN07070712865 </p>
+        </div>
+        </div>
+
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">TOPLAM KW:</p>
+        </div>
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p>162.000 KW </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">TOPLAM TUTAR:</p>
+        </div>
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p>1,266.85 TL </p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p >ÖDEMEM METHODU:</p>
+        </div>
+
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p>**** 1234 VISA </p>
+        </div>
+    </div>
+    </div>
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="vechile ">
+            <div class="col-lg-3 border-right">
+                <p style="font-weight:600">Tarih</p>
+                <p>25/11/2024 08:36</p>
+            </div>
+            <div class="col-lg-3 border-right">
+                <p style="font-weight:600">PLAKA</p>
+                <p>07 AT 1267 </p>
+            </div>
+            <div class="col-lg-3 border-right">
+                <p style="font-weight:600">İŞLEM NO:</p>
+                <p>12865 </p>
+            </div>
+            <div class="col-lg-3 detail">
+                <i class="fa-solid fa-ellipsis"></i>
+                <p>Detay</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">İŞLEM DURUMU:</p>
+            <p>Tamamlandı </p>
+        </div>
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">CİHAZ ID:</p>
+            <p>SN07070712865 </p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">TOPLAM KW:</p>
+        </div>
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p>162.000 KW </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p style="font-weight:600">TOPLAM TUTAR:</p>
+        </div>
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey; border-bottom:.5px solid grey;">
+            <p>1,266.85 TL </p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6 " style=" border-left:.5px solid grey; border-bottom:.5px solid grey;">
+            <p>ÖDEMEM METHODU:</p>
+        </div>
+
+
+        <div class="col-lg-6 " style="display:flex; display: flex;  flex-direction: column;
+    place-items: end; border-right:.5px solid grey;">
+            <p>**** 1234 VISA </p>
+        </div>
+    </div>
+</div>
+
+@code {
+    private bool collapseSlider = true;
+
+    private string SliderClass => collapseSlider ? "collapsed" : "";
+
+    private void ToggleSlider()
+    {
+        collapseSlider = !collapseSlider; 
+    }
+}
