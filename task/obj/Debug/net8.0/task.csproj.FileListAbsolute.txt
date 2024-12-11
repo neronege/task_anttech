@@ -1,3 +1,10 @@
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.sourcelink.json
 C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
@@ -615,12 +622,6 @@ C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\icudt_no_CJK.dat
 C:\Users\musta\Desktop\task\task\bin\Debug\net8.0\emcc-props.json
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.csproj.AssemblyReference.cache
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.AssemblyInfo.cs
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -1038,6 +1039,6 @@ C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.dll
 C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\refint\task.dll
 C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\task.pdb
 C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\ref\task.dll
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\compressed\ik2na59yms-mcdloc4fdi.gz
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\compressed\9u0ltxhcik-vpb8xczc9u.gz
-C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\compressed\caewrfxgx1-53xz4pq4n5.gz
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\compressed\ik2na59yms-tn8lird0ai.gz
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\compressed\9u0ltxhcik-3qbyr7b7kc.gz
+C:\Users\musta\Desktop\task\task\obj\Debug\net8.0\compressed\caewrfxgx1-ee9zisiffa.gz

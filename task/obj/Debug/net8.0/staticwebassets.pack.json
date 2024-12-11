@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\task.styles.css"
     },
     {
+      "Id": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\AmsiPro-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\AmsiPro-Black.ttf"
+    },
+    {
       "Id": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -19,6 +23,10 @@
     {
       "Id": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
       "Id": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\favicon.png",

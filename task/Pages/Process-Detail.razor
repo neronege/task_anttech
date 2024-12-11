@@ -1,0 +1,99 @@
+﻿@using task.Entity
+@using System.Globalization
+
+<div class="process-list container">
+    @foreach (var vechile in Vehicles)
+    {
+        <div class="process-table mb-5"> 
+            <ul class="process-title border-bottom">
+                <li class="list-group-item col-4 process-item process-dates">
+                    <div class="ms-2 me-auto">
+                        <p class="fw-bold">
+                            TARİH
+                        </p>
+                        <p class="process-text">@vechile.Date.ToString("dd/MM/yyyy HH:mm")</p>
+                    </div>
+                </li>
+                <li class="list-group-item col-3 process-item plate">
+                    <div class="ms-2 ">
+                        <p class="fw-bold" style="justify-content-center">
+                            PLAKA
+                        </p>
+                        <p class="process-text"> @vechile.Plate </p>
+                    </div>
+                </li>
+                <li class="list-group-item col-3 process-item no ">
+                    <div class="ms-2">
+                        <p class="fw-bold">
+                            İŞLEM NO
+                        </p>
+
+                        <p class="process-text">  @vechile.TransactionNo  </p>
+                    </div>
+                </li>
+                <li class="list-group-item col-2 process-item detail-btn">
+                    <i class="fa-solid fa-ellipsis"></i>
+                    <p style="margin-bottom: 0px;">Detay</p>
+                </li>
+            </ul>
+            <ul class="list-group">
+                <li class="list-group-item process-item">
+                    <div class="ms-2">
+                        <p class="fw-bold">
+                            İŞLEM DURUMU  
+                        </p>
+                        <p class="process-text">@vechile.TransactionStatus</p>
+                    </div>
+                    <div class="ms-2 display: flex;
+                                    flex-direction: column;
+                                align-items: end;">
+                        <p class="fw-bold" style="justify-self:end;">
+                            CİHAZ ID
+                        </p>
+                        <p class="process-text">@vechile.DeviceId</p>
+                    </div>
+                </li>
+
+                <li class="list-group-item process-item" style="border-bottom:0;">
+                    <div class="ms-2">
+                        <p class="fw-bold">
+                            TOPLAM KW
+                        </p>
+                    </div>
+                    <p class="process-text">@vechile.TotalKw</p>
+
+                </li>
+                <li class="list-group-item process-item">
+                    <div class="ms-2">
+                        <p class="fw-bold">
+                            TOPLAM TUTAR
+                        </p>
+                    </div>
+                    <p class="process-text">@vechile.TotalAmount</p>
+
+                </li>
+                <li class="list-group-item process-item">
+                    <div class="ms-2">
+                        <p class="payment-method">
+                            ÖDEME METHODU
+                        </p>
+                    </div>
+                    <p class="process-text">
+
+                        @vechile.PaymentMethod
+                        <i class="fa-brands fa-cc-visa"></i>
+                    </p>
+
+                </li>
+            </ul>
+        </div>
+    }
+</div>
+@code {
+
+
+    [Parameter]
+    public List<Vehicle> Vehicles { get; set; } = new();
+
+
+}

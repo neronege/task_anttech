@@ -1,0 +1,44 @@
+﻿
+
+@media (max-width: 430px) {
+    .fw-bold, .process-item.detail-btn, .process-text, .dates,
+    .days, .payment-method {
+        font-size: 14px;
+    }
+
+    .process-item.detail-btn {
+        padding: 0px;
+    }
+
+    .process-text {
+        margin-bottom: 0px;
+    }
+
+    .process-title {
+        padding: 0px;
+    }
+
+    .process-item {
+        padding: 5px;
+    }
+    .dropdown-menu{
+        min-width:7rem!important;
+    }
+    date-dropdown {
+        width: 40vw;
+    }
+    .date-dropdown a, .days-dropdown a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 376px) {
+    .fw-bold, .process-item.detail-btn, .process-text, .dates,
+    .days, .payment-method {
+        font-size: 12px;
+    }
+    .date-dropdown a, .days-dropdown a{
+        font-size:12px;
+    }
+   
+}

@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\pages\\process.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\layout\\slider.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\layout\\slider.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\pages\\process-detail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\pages\\process-detail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\entity\\vechile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\entity\\vechile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\data\\vechilesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\data\\vechilesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|solutionrelative:task\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F1F2C50-78A3-4EC8-BF84-E36737E74629}|task\\task.csproj|c:\\users\\musta\\desktop\\task\\task\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,17 +46,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "task\\Layout\\Footer.razor",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Footer.razor",
+              "RelativeToolTip": "task\\Layout\\Footer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:03:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "VechilesData.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Data\\VechilesData.cs",
+              "RelativeDocumentMoniker": "task\\Data\\VechilesData.cs",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Data\\VechilesData.cs",
+              "RelativeToolTip": "task\\Data\\VechilesData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:47:27.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vechile.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Entity\\Vechile.cs",
+              "RelativeDocumentMoniker": "task\\Entity\\Vechile.cs",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Entity\\Vechile.cs",
+              "RelativeToolTip": "task\\Entity\\Vechile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:31:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "task\\wwwroot\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "task\\wwwroot\\css\\responsive.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T14:03:11.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "task\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "task\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAPYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T07:37:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Process-Detail.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Pages\\Process-Detail.razor",
+              "RelativeDocumentMoniker": "task\\Pages\\Process-Detail.razor",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Pages\\Process-Detail.razor",
+              "RelativeToolTip": "task\\Pages\\Process-Detail.razor",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T06:50:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "task\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\MainLayout.razor",
               "RelativeToolTip": "task\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-09T19:02:58.489Z",
               "EditorCaption": ""
@@ -57,59 +147,20 @@
               "RelativeDocumentMoniker": "task\\Pages\\Process.razor",
               "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Pages\\Process.razor",
               "RelativeToolTip": "task\\Pages\\Process.razor",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAiwLcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwIgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-09T17:27:29.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "task\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "task\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAO4AAAAAAAAAAAAUwPcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-09T17:12:35.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Footer.razor",
-              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Footer.razor",
-              "RelativeDocumentMoniker": "task\\Layout\\Footer.razor",
-              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Footer.razor",
-              "RelativeToolTip": "task\\Layout\\Footer.razor",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T17:09:42.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Slider.razor",
-              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Slider.razor",
-              "RelativeDocumentMoniker": "task\\Layout\\Slider.razor",
-              "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\Layout\\Slider.razor",
-              "RelativeToolTip": "task\\Layout\\Slider.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T19:11:22.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "task\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\musta\\Desktop\\task\\task\\wwwroot\\index.html",
               "RelativeToolTip": "task\\wwwroot\\index.html",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-12-09T17:39:51.826Z",
               "EditorCaption": ""

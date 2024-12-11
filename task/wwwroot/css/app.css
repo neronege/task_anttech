@@ -1,5 +1,19 @@
-﻿html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+﻿@font-face {
+    font-family: 'AmsiPro';
+    src: url('/css/AmsiPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AmsiPro';
+    src: url('/css/AmsiPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+html, body {
+    font-family: 'AmsiPro', sans-serif;
 }
 
 h1:focus {
@@ -122,6 +136,9 @@ code {
         color: #fe5715;
     }
 
+.footer-link i{
+font-size:22px;
+}
 .page{
     display:flex!important;
     flex-direction :column!important;
@@ -137,7 +154,7 @@ code {
 .slider-container {
     overflow: hidden;
     width: 100%;
-    height: 100px;
+    height: 125px;
     position: relative;
     background-color: #eaeaea75;
 }
@@ -199,11 +216,17 @@ code {
 .fa-minus{
     font-size:22px;
 }
+.days-dropdown {
+    width: 32vw;
+}
+.date-dropdown {
+    width: 38vw;
+}
 
-.buttons{
-    display:flex;
-    align-items:center;
-    justify-content:space-around;
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .dates {
     width: 38vw !important;
@@ -212,6 +235,9 @@ code {
     justify-content: space-between;
     font-size: 22px;
     height: 5vh;
+    background: gainsboro;
+    border: none;
+    color: darkslategrey;
 }
 .days {
     width: 32vw !important;
@@ -220,6 +246,9 @@ code {
     align-items: center;
     justify-content: space-between;
     font-size: 22px;
+    background: gainsboro;
+    border: none;
+    color: darkslategrey;
 }
 .fa-arrow-up-right-from-square {
     font-size: 22px;
@@ -255,4 +284,51 @@ code {
     flex-wrap:wrap;
     flex-direction:column;
     align-items:center;
+}
+.process-title {
+    display: flex;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.fw-bold {
+    margin-bottom:0px;
+    font-size:24px;
+}
+
+.process-text{
+    font-size:24px;
+}
+.process-item {
+    display:flex; 
+    justify-content:space-between;
+    align-items:start;
+}
+          
+    .process-item.no {
+        justify-content: center;
+        border-bottom: none;
+    }
+    .process-item.plate {
+        justify-content: center;
+        border-bottom: none;
+    }
+    .process-item.detail-btn {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        font-size: 24px;
+        color: #fe5715;
+        border-right:none;
+    }
+.process-table {
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 10px;
+}
+.process-item.process-dates {
+    border-left: none;
+    border-bottom:none;
+}
+.payment-method {
+    font-size: 22px;
+    margin-bottom: 5px;
 }
